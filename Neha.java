@@ -7,7 +7,4 @@ Rani
 
 Saoner
 Nagpur
-
-==============
-
-Pune
+Ramtek
